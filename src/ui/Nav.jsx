@@ -56,7 +56,7 @@ function Nav() {
     dispatch(updateSearchQuery(newSearchQuery));
   }
   return (
-    <div className="absolute z-10 ">
+    <div className="absolute z-10n">
       <div
         className={`fixed w-screen h-screen bg-stone-900 opacity-30 `}
         onClick={() => onToggleNav()}
