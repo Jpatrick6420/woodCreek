@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Jpatrick6420.github.io/woodCreek",
+  "homepage": "https://jpatrick6420.github.io/woodCreek",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
